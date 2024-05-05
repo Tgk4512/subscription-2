@@ -1,0 +1,56 @@
+.header{
+    background-color: pink;
+    padding: 2px;
+    margin: 5px;
+    text-align: center;
+}
+.subject{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    padding: 60px;
+   
+}
+.sub-1{
+    background-color: black;
+    color: white;
+    border-radius: 30px;
+    border: solid black 2px;
+    padding: 20px;
+    margin: 10px;
+    text-align: center;
+    width: 300px;
+   
+}
+.sub-1-1{
+    border: solid white 2px;
+    border-radius: 30px;
+    padding: 10px;
+    text-align: start;
+   
+}
+.sub-2{
+    background-color: black;
+    color: white;
+    border-radius: 30px;
+    border: solid black 2px;
+    padding: 20px;
+    margin: 10px;
+    text-align: center;
+    width: 300px;
+}
+.sub-2-2{
+    border: solid white 2px;
+    border-radius: 30px;
+    padding: 10px;
+    text-align: start;
+  
+}
+
+.sub-3{
+    width: 300px;
+}
+.sub-3-3{
+    text-align: start;
+}
+
